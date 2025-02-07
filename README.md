@@ -1,0 +1,2 @@
+# jupyter-exploration
+Ai class
